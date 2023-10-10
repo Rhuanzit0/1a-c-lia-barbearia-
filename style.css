@@ -26,8 +26,12 @@ nav li {
     font-size: 30px;
     text-decoration: none;
     font-weight: lighter;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
 
+nav a:hover{
+
+  }
 
  #banner {
 width: 100%;
